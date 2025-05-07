@@ -5,7 +5,7 @@ This project involves the analysis of user rating data from Zomato. The objectiv
 
 ### Dataset Description:
 
-**Records**: ~9,000+ restaurant entries
+**Records**: ~20,000+ restaurant entries
 
 **Columns include**: Restaurant ID, Restaurant Name, Location, Cuisines, Average Cost for Two, Aggregate Rating, User_Rating_Votes, Price Range, Online_Order_Availability, Table_Booking_Availability
 
