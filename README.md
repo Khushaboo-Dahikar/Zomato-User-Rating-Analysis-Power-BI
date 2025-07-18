@@ -68,5 +68,5 @@ Dynamic Visuals:
 ### Author
 
 	Khushaboo Dahikar
-	Aspiring Data Analyst | Skilled in Power BI, SQL, Python, Machine Learning and Excel
+	Certified Data Analyst | Skilled in Power BI, SQL, Python, Machine Learning and Excel
 
